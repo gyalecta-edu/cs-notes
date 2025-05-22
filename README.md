@@ -22,9 +22,9 @@
 
 ## 📝 License
 
-This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-You’re free to use, adapt, and share — just give credit.  
-[View license details](https://creativecommons.org/licenses/by/4.0/)
+This project is released under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** license.  
+Feel free to copy, modify, distribute — no permission or credit required.  
+[View license details](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
