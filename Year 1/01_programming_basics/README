@@ -1,0 +1,37 @@
+# Programming Basics 📘
+
+Notes from my course in Programming 1 at Unisa.
+
+## 📂 Structure
+
+- `summaries/`: Short summaries of the topics
+- `theory/`: Detailed theoretical notes
+- `exercises/`: Solved exercises and examples
+- `cheatsheets/`: Exam quick-references
+
+## 🧠 Topics
+
+- Programming Fundamentals
+- Algorithms and Programs
+- Problem Analysis
+- Abstract Syntactic and Semantic Definition, Preconditions, Postconditions
+- Divide et Impera Approach
+- Standard Library
+- Formatted Input/Output, Expressions
+- Selection Instructions
+- Loops
+- Data Types
+- One-Dimensional and Multidimensional Array
+- Functions
+- Scope of Variables
+- Dynamic Storage Allocation/Deallocation
+- Strings, Structures
+- Files
+
+## 📝 Notes
+
+All notes are in [English/Italian] and based on lectures, textbooks, and personal research.
+
+## 📜 License
+
+Released under CC0 1.0 – free to use, share, or adapt.
